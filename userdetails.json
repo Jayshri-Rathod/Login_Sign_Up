@@ -1,0 +1,12 @@
+{
+  "user": {
+    "username": "pooja singh",
+    "password": "pooja@123"
+  },
+  "profile": {
+    "Discription": "Hi i am pooja",
+    "Dob": "9 july 1999",
+    "Gender": "femal",
+    "hobbies": "reading"
+  }
+}
